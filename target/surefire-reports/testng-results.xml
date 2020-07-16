@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="25962" started-at="2020-07-07T12:23:33Z" finished-at="2020-07-07T12:23:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="25962" started-at="2020-07-07T12:23:33Z" finished-at="2020-07-07T12:23:59Z">
+      <class name="com.newtour.testpages.NewTourSupportTest">
+        <test-method status="PASS" signature="newsupportset()[pri:0, instance:com.newtour.testpages.NewTourSupportTest@13fee20c]" name="newsupportset" is-config="true" duration-ms="8783" started-at="2020-07-07T17:53:48Z" finished-at="2020-07-07T17:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsupportset -->
+        <test-method status="PASS" signature="supporttest()[pri:0, instance:com.newtour.testpages.NewTourSupportTest@13fee20c]" name="supporttest" duration-ms="964" started-at="2020-07-07T17:53:57Z" finished-at="2020-07-07T17:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supporttest -->
+        <test-method status="PASS" signature="teaarDown()[pri:0, instance:com.newtour.testpages.NewTourSupportTest@13fee20c]" name="teaarDown" is-config="true" duration-ms="738" started-at="2020-07-07T17:53:58Z" finished-at="2020-07-07T17:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teaarDown -->
+      </class> <!-- com.newtour.testpages.NewTourSupportTest -->
+      <class name="com.newtour.testpages.NewTourContactTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.newtour.testpages.NewTourContactTest@64616ca2]" name="setup" is-config="true" duration-ms="13521" started-at="2020-07-07T17:53:33Z" finished-at="2020-07-07T17:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="contact()[pri:0, instance:com.newtour.testpages.NewTourContactTest@64616ca2]" name="contact" duration-ms="1018" started-at="2020-07-07T17:53:46Z" finished-at="2020-07-07T17:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method status="PASS" signature="teaarDown()[pri:0, instance:com.newtour.testpages.NewTourContactTest@64616ca2]" name="teaarDown" is-config="true" duration-ms="843" started-at="2020-07-07T17:53:47Z" finished-at="2020-07-07T17:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teaarDown -->
+      </class> <!-- com.newtour.testpages.NewTourContactTest -->
+      <class name="com.newtour.pages.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.newtour.pages.NewTest@3b81a1bc]" name="f" duration-ms="9" started-at="2020-07-07T17:53:33Z" finished-at="2020-07-07T17:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.newtour.pages.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

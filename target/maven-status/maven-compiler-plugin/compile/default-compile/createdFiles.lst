@@ -1,0 +1,9 @@
+com\newtour\utility\WebEventListener.class
+com\newtour\testbase\TestBase.class
+com\newtour\utility\TestBaseUtil.class
+com\newtour\pages\NewTourRegisterPage.class
+com\newtour\pages\NewTourSupportPage.class
+com\newtour\pages\NewTourSignInPage.class
+com\newtour\pages\NewTourContactPage.class
+com\newtour\utility\NewTourTestData.class
+com\newtour\pages\NewTourLoggedIn.class
